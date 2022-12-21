@@ -1,0 +1,22 @@
+.nav * {
+  margin: 0px 5px;
+}
+
+.navbar {
+  justify-content: space-between;
+  display: flex;
+  padding: 5px;
+  color: whitesmoke;
+}
+
+.navbar * {
+  color: whitesmoke;
+}
+
+.navbar *:hover {
+  color: rgb(255, 129, 83);
+}
+
+.navbar *:focus:focus-within {
+  color: whitesmoke;
+}
